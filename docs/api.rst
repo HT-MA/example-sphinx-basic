@@ -1,7 +1,13 @@
-API
-===
+Redis install by python scripts
+===================================
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+
+download package
+----------------
+
+install Redis
+---------------
+
+verify 
+-----------
